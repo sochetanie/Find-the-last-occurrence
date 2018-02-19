@@ -5,27 +5,16 @@ The name of your class should be FindLast.
 For example, if the file numbers.text contains:
 
 10
-
 23
-
 43
-
 5
-
 12
-
 23
-
 9
-
 8
-
 10
-
 1
-
 16
-
 9
 
 Here is a sample execution of the program.
