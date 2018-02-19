@@ -5,31 +5,25 @@ The name of your class should be FindLast.
 For example, if the file numbers.text contains:
 
 10<br />
-23
-43
-5
-12
-23
-9
-8
-10
-1
-16
-9
+23<br />
+43<br />
+5<br />
+12<br />
+23<br />
+9<br />
+8<br />
+10<br />
+1<br />
+16<br />
+9<br />
 
 Here is a sample execution of the program.
 User input is in bold. Your program should replicate the prompts and output:
 
-Enter a number: 10
-
-10 last appears in the file at position 9
-
-Enter a number: 29
-
-29 does not appear in the file
-
-Enter a number: 9
-
-9 last appears in the file at position 12
-
-Enter a number:
+Enter a number: 10<br />
+10 last appears in the file at position 9<br />
+Enter a number: 29<br />
+29 does not appear in the file<br />
+Enter a number: 9<br />
+9 last appears in the file at position 12<br />
+Enter a number:<br />
